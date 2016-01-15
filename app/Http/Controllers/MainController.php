@@ -1,5 +1,7 @@
 <?php
 
+//ceci est un com
+
 namespace App\Http\Controllers;
 
 /**
